@@ -2,7 +2,7 @@ Passionate Java fullstack developer with a flair for Java . I enjoy turning comp
 
 ### 🚀 Quick Overview
 
-- 🔭 Enthusiastic Fulstack Java Developer
+- 🔭 Enthusiastic Fullstack Java Developer
 - 🌱 Learning Spring , SpringBoot, Hibernate, ORM
 - 💡 Interested in Java FullStack Development
 - 📫 How to reach me: gokulakrishnan.m3009@gmail.com
