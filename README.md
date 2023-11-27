@@ -1,16 +1,25 @@
-### Hi there 👋
+Passionate [Your Current Role/Field] with a flair for [Your Key Skills/Technologies]. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 
 
-<!--
-**Gokulakrishnan-MJ/Gokulakrishnan-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Quick Overview
 
-Here are some ideas to get you started:
+- 🔭 Enthusiastic Fulstack Java Developer
+- 🌱 Learning Spring , SpringBoot, Hibernate, ORM
+- 💡 Interested in Java FullStack Development
+- 📫 How to reach me: gokulakrishnan.m3009@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+* JAVA
+* JDBC
+* Servlets
+* Hibernate ( ORM )
+* Spring Core
+* Spring MVC
+* Spring Boot
+* HTML5
+* CSS3
+* JavaScript
+* REACT js
+
+### 🌐 Connect with Me
+
+- [LinkedIn] : https://www.linkedin.com/in/gokulakrishnan-mj/
