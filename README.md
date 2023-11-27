@@ -1,4 +1,4 @@
-Passionate [Your Current Role/Field] with a flair for [Your Key Skills/Technologies]. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 
+Passionate Java fullstack developer with a flair for Java . I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 
 
 ### 🚀 Quick Overview
 
