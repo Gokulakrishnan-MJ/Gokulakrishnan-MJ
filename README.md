@@ -1,21 +1,8 @@
 
-### 🚀 Quick Overview
+### ðŸš€ Quick Overview
 
 
-### 💻 Tech Stack
-* JAVA
-* JDBC
-* Servlets
-* Hibernate ( ORM )
-* Spring Core
-* Spring MVC
-* Spring Boot
-* HTML5
-* CSS3
-* JavaScript
-* REACT js
-
-### 🌐 Connect with Me
+### ðŸŒ Connect with Me
 
 
 # Gokulakrishnan Murugan
@@ -23,19 +10,19 @@
 **Backend Engineer | Software Engineer | Kafka Specialist | Cloud Engineer | Microservices & Distributed Systems**
 
 Chennai / Bangalore, India  
-📞 +91 8072769573  
-📧 gokulakrishnan.m3009@gmail.com  
+ðŸ“ž +91 8072769573  
+ðŸ“§ gokulakrishnan.m3009@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/gokulakrishnan-mj/)
 
 ---
 
-## 🚀 Professional Summary
+## ðŸš€ Professional Summary
 
-Backend Engineer with 2+ years of experience building enterprise-grade microservices, event-driven architectures, and distributed systems using Java 8+, Spring Boot, and Apache Kafka. Delivered fault-tolerant Kafka pipelines processing 10M+ events/day in production for Marriott International. Skilled in cloud-native deployments on AWS & Kubernetes, CI/CD automation, and system design for high availability and scalability. Hands-on exposure to Generative AI — developed proof-of-concept LLM applications using AWS Bedrock and Claude (Anthropic). Strong communicator with a track record of cross-functional collaboration and incident resolution within SLA windows.
+Backend Engineer with 2+ years of experience building enterprise-grade microservices, event-driven architectures, and distributed systems using Java 8+, Spring Boot, and Apache Kafka. Delivered fault-tolerant Kafka pipelines processing 10M+ events/day in production for Marriott International. Skilled in cloud-native deployments on AWS & Kubernetes, CI/CD automation, and system design for high availability and scalability. Hands-on exposure to Generative AI â€” developed proof-of-concept LLM applications using AWS Bedrock and Claude (Anthropic). Strong communicator with a track record of cross-functional collaboration and incident resolution within SLA windows.
 
 ---
 
-## 🛠️ Core Competencies
+## ðŸ› ï¸ Core Competencies
 
 - Backend Engineering
 - System Design
@@ -52,44 +39,59 @@ Backend Engineer with 2+ years of experience building enterprise-grade microserv
 
 ---
 
-## 💼 Work Experience
+## ðŸ’¼ Work Experience
 
 **Software Engineer (Backend Engineer) | Alphacom | Client: Marriott International | Chennai**  
-_Feb 2026 – Present_
-- Designed RESTful microservices for high-throughput data retrieval and search APIs — feature flag rollouts and hybrid table logic in a cloud-native, containerised environment.
+_Feb 2026 â€“ Present_
+- Designed RESTful microservices for high-throughput data retrieval and search APIs â€” feature flag rollouts and hybrid table logic in a cloud-native, containerised environment.
 - Implemented service mesh (mutual TLS, traffic management, service discovery) for secure inter-service communication across distributed microservices.
-- Led resolution of 15+ production incidents end-to-end — root cause analysis, data reprocessing, fix deployment within SLA; zero repeat incidents on owned services.
+- Led resolution of 15+ production incidents end-to-end â€” root cause analysis, data reprocessing, fix deployment within SLA; zero repeat incidents on owned services.
 - Integrated third-party APIs and drove Java upgrades + CVE remediation (Log4j 2.x) across platform microservices.
 
 **Associate Software Engineer (Backend Developer) | KMC Corp PVT Ltd. | Client: Marriott International | Chennai**  
-_Dec 2023 – Jan 2026_
-- Designed scalable event-driven architecture for Kafka ACL automation — 10M+ events/day in production across Marriott's global hotel operations.
-- Built ACL Automation Tool (Jira + Confluent Kafka APIs) — reduced manual provisioning by 80% with full audit logging via GitHub App.
-- Deployed on Amazon EKS with HashiCorp Vault — high availability, zero-downtime, production-ready.
+_Dec 2023 â€“ Jan 2026_
+- Designed scalable event-driven architecture for Kafka ACL automation â€” 10M+ events/day in production across Marriott's global hotel operations.
+- Built ACL Automation Tool (Jira + Confluent Kafka APIs) â€” reduced manual provisioning by 80% with full audit logging via GitHub App.
+- Deployed on Amazon EKS with HashiCorp Vault â€” high availability, zero-downtime, production-ready.
 - Resolved 30+ production incidents; reduced Kafka consumer lag by 60% via partition strategy optimization.
-- Migrated CI/CD from Jenkins to Harness — cut deployment lead time by 40% with dynamic secret management via HashiCorp Vault.
+- Migrated CI/CD from Jenkins to Harness â€” cut deployment lead time by 40% with dynamic secret management via HashiCorp Vault.
 - Built Spring Boot app on AWS (S3, DynamoDB, Lambda, SES, IAM) with GitHub Actions for event-driven data processing.
-- Automated TLS certificate expiry tracking — eliminated 100% of missed expiry incidents, saving ~3 hrs/week.
+- Automated TLS certificate expiry tracking â€” eliminated 100% of missed expiry incidents, saving ~3 hrs/week.
 
 ---
 
-## 🏆 Projects
+## ðŸ† Projects
 
-**Kafka ACL Automation Tool — Marriott International | Internal Platform**
+**Kafka ACL Automation Tool â€” Marriott International | Internal Platform**
 - Eliminated ~10 hrs/week manual Kafka provisioning; 80% reduction in effort, zero errors post-launch.  
 _Stack: Java, Spring Boot, Kafka, EKS, HashiCorp Vault_
 
-**CI/CD Migration: Jenkins → Harness — Marriott International | Internal DevOps**
+**CI/CD Migration: Jenkins â†’ Harness â€” Marriott International | Internal DevOps**
 - Accelerated Marriott backend release velocity; 40% faster deployments.  
 _Stack: Harness, Jenkins, HashiCorp Vault, Kubernetes, Docker_
 
-**TLS Certificate Expiry Monitoring — KMC Corp | Internal Reliability**
+**TLS Certificate Expiry Monitoring â€” KMC Corp | Internal Reliability**
 - Prevented production outages; 100% of missed expiry incidents eliminated.  
 _Stack: Jenkins, Cert Manager, Spring Boot_
 
 ---
 
-## 🧰 Skills
+### ðŸ’» Tech Stack
+* JAVA
+* JDBC
+* Servlets
+* Hibernate ( ORM )
+* Spring Core
+* Spring MVC
+* Spring Boot
+* HTML5
+* CSS3
+* JavaScript
+* REACT js
+
+---
+
+## ðŸ§° Skills
 
 **Languages & Core:** Java 8+, OOP, Collections, Multithreading, Exception Handling
 
@@ -113,25 +115,25 @@ _Stack: Jenkins, Cert Manager, Spring Boot_
 
 ---
 
-## 📜 Certifications
+## ðŸ“œ Certifications
 
 **Streaming & Kafka**
-- Confluent Certified Administrator for Apache Kafka (CCAAK) — 2025
-- Confluent Certified Developer for Apache Kafka (CCDAK) — 2024
-- Data Streaming Engineer — 2025
+- Confluent Certified Administrator for Apache Kafka (CCAAK) â€” 2025
+- Confluent Certified Developer for Apache Kafka (CCDAK) â€” 2024
+- Data Streaming Engineer â€” 2025
 
 **Cloud & Infrastructure**
 - AWS Certified AI Practitioner (AIF-C01)  [Expected 2026]
-- AWS Fundamentals & Kubernetes — 2025
-- Alibaba Cloud Certified Associate (ACA) — 2024
+- AWS Fundamentals & Kubernetes â€” 2025
+- Alibaba Cloud Certified Associate (ACA) â€” 2024
 
 **Monitoring & Observability**
-- Splunk Intro & Search Under the Hood — 2024
+- Splunk Intro & Search Under the Hood â€” 2024
 
 ---
 
-## 🎓 Education
+## ðŸŽ“ Education
 
 **Bachelor of Information Technology | CGPA: 8.89 / 10**  
-St. Joseph's Institute of Technology, OMR  |  2019 – 2023
+St. Joseph's Institute of Technology, OMR  |  2019 â€“ 2023
 Relevant Coursework: Distributed Systems, Cloud Computing, Database Management, Operating Systems, Computer Networks
